@@ -14,17 +14,17 @@ https://help.soundcloud.com/hc/en-us/articles/360051037454-SoundCloud-for-Artist
 
 # Fair Use Experiments
 Experiment 1: ~20 second clip of "Shake It Off" by Taylor Swift
-[Screenshot](folder/original.png)
+![Screenshot](folder/original.png)
 - Because this was a raw copyrighted clip, I expected it to be automatically detected. However, as of right now, it has not been taken down and can be accessed [here](https://soundcloud.com/play-plosive_8q/original).
 
 Experiment 2: Remix of  the same "Shake It Off" clip (altered pitch, tempo, added drums)
-[Screenshot](folder/remix.png)
+![Screenshot](folder/remix.png)
 - This version also was not taken down and I received no warnings. It can be accessed [here](https://soundcloud.com/play-plosive_8q/remix).
 
 # AI-Generated Content Investigation
 Experiment 1 (Direct Reference): I used Suno to generate a song with the lyrics of "Shake It Off" and in the same style (I used Claude to generate keywords to put in Suno). Interestingly, Suno said the generation was not allowed because the lyrics contained copyrighted content, but it still allowed me to generate and download the song. SoundCloud did not take the song down and it is available [here](https://soundcloud.com/play-plosive_8q/suno1).
 
-[Screenshot](folder/suno1.png)
+![Screenshot](folder/suno1.png)
 
 
 Experiment 2 (Style Mimicry): I asked Claude to write lyrics and describe the style of a song in the style of Taylor Swift. Then, I generated a song in Suno using the lyrics and style description. Below are the prompts I used, the output, and a screenshot.
@@ -99,7 +99,7 @@ Never meant to last
 This would be sung as a mid-tempo pop-country ballad with acoustic guitar foundation and building instrumentation. The verses start intimate and conversational, delivered with a gentle, slightly wistful tone. The pre-chorus builds anticipation with rising melody, then the chorus explodes into a soaring, anthemic hook with layered vocals and full production—drums, synths, and strings. The bridge strips back to vulnerable and raw, almost whispered, before the final chorus returns with maximum emotional impact. Think *Red* or *Folklore* era production with confessional storytelling and that signature Swift melodic catchiness.
 ```
 
-[screenshot](folder/suno2.png)
+![screenshot](folder/suno2.png)
 
 The content was not taken down and can be accessed [here](https://soundcloud.com/play-plosive_8q/suno2).
 
