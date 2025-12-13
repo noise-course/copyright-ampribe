@@ -7,22 +7,24 @@ For my analysis, I chose to research SoundCloud.
 - Yes, SoundCloud allows rightsholders to submit content they would like to protect or manually flag content that violates the copyright policies.
 
 Sources
+
 https://help.soundcloud.com/hc/en-us/articles/4402636813979-What-are-SoundCloud-s-copyright-policies
+
 https://help.soundcloud.com/hc/en-us/articles/360051037454-SoundCloud-for-Artists-Copyright
 
 # Fair Use Experiments
 Experiment 1: ~20 second clip of "Shake It Off" by Taylor Swift
-[](folder/original.png)
+[Screenshot](folder/original.png)
 - Because this was a raw copyrighted clip, I expected it to be automatically detected. However, as of right now, it has not been taken down and can be accessed [here](https://soundcloud.com/play-plosive_8q/original).
 
 Experiment 2: Remix of  the same "Shake It Off" clip (altered pitch, tempo, added drums)
-[](folder/remix.png)
+[Screenshot](folder/remix.png)
 - This version also was not taken down and I received no warnings. It can be accessed [here](https://soundcloud.com/play-plosive_8q/remix).
 
 # AI-Generated Content Investigation
 Experiment 1 (Direct Reference): I used Suno to generate a song with the lyrics of "Shake It Off" and in the same style (I used Claude to generate keywords to put in Suno). Interestingly, Suno said the generation was not allowed because the lyrics contained copyrighted content, but it still allowed me to generate and download the song. SoundCloud did not take the song down and it is available [here](https://soundcloud.com/play-plosive_8q/suno1).
 
-[](folder/suno1.png)
+[Screenshot](folder/suno1.png)
 
 
 Experiment 2 (Style Mimicry): I asked Claude to write lyrics and describe the style of a song in the style of Taylor Swift. Then, I generated a song in Suno using the lyrics and style description. Below are the prompts I used, the output, and a screenshot.
@@ -97,7 +99,7 @@ Never meant to last
 This would be sung as a mid-tempo pop-country ballad with acoustic guitar foundation and building instrumentation. The verses start intimate and conversational, delivered with a gentle, slightly wistful tone. The pre-chorus builds anticipation with rising melody, then the chorus explodes into a soaring, anthemic hook with layered vocals and full production—drums, synths, and strings. The bridge strips back to vulnerable and raw, almost whispered, before the final chorus returns with maximum emotional impact. Think *Red* or *Folklore* era production with confessional storytelling and that signature Swift melodic catchiness.
 ```
 
-[](folder/suno2.png)
+[screenshot](folder/suno2.png)
 
 The content was not taken down and can be accessed [here](https://soundcloud.com/play-plosive_8q/suno2).
 
@@ -122,4 +124,4 @@ Remix
 Gap Analysis
 - Suno had a clear gap between the platform policy and enforcement. Even though the policy stated that copyrighted lyrics were not allowed and my lyrics were flagged as copyrighted, it still allowed me to generate and download the content. 
 - SoundCloud also had a gap between platform policy and enforcement. SoundCloud does not allow uploading copyrighted works and the automated system is supposed to identify such content, but my 20 second raw clip of a copyrighted work was not removed. 
-- Suno's platform policy is not clear about generating content in the style of a particular artist. It allowed me to generate content in the style of Taylor Swift. However, this usage may be questionable under copyright law because the generated content is not substantially different from the original and may hurt the market value of the original work since users who enjoyed Taylor Swift's style could listen to comparable AI-generated songs instead.
+- Suno's platform policy is not clear about generating content in the style of a particular artist. It allowed me to generate content in the style of Taylor Swift. However, this usage may be questionable under copyright law because the generated content is not substantially different from the original and may hurt the market value of the original work since users who enjoy Taylor Swift's style could listen to comparable AI-generated songs instead.
